@@ -159,7 +159,7 @@
         <jdk7Name>JavaSE-1.7</jdk7Name>
 
         <activemqVersion>5.11.1</activemqVersion>
-        <antVersion>1.7.0</antVersion>
+        <antVersion>1.8.1</antVersion>
         <antlrVersion>3.1.1</antlrVersion>
         <asmVersion>3.3.1</asmVersion>
         <aspectjVersion>1.7.3</aspectjVersion>
@@ -239,7 +239,7 @@
         <slf4jVersion>1.7.7</slf4jVersion>
         <smackVersion>3.1.0</smackVersion>
         <springOsgiVersion>1.0.2</springOsgiVersion>
-        <springVersion>4.1.6.RELEASE</springVersion>
+        <springVersion>4.1.7.RELEASE</springVersion>
         <springSecurityVersion>3.1.0.RELEASE</springSecurityVersion>
         <sshCoreVersion>0.6.0</sshCoreVersion>
         <staxUtilsVersion>20080702</staxUtilsVersion>
