@@ -169,11 +169,11 @@
         <bouncycastleVersion>1.46</bouncycastleVersion>
         <cglibVersion>2.2</cglibVersion>
         <cometdVersion>6.1.26</cometdVersion>
-        <commonsBeanUtilsVersion>1.9.2</commonsBeanUtilsVersion>
+        <commonsBeanUtilsVersion>1.9.3</commonsBeanUtilsVersion>
         <commonsExecVersion>1.2</commonsExecVersion>
         <commonsCliVersion>1.2</commonsCliVersion>
         <commonsCodecVersion>1.9</commonsCodecVersion>
-        <commonsCollectionsVersion>3.2.1</commonsCollectionsVersion>
+        <commonsCollectionsVersion>3.2.2</commonsCollectionsVersion>
         <commonsDbcpVersion>1.4</commonsDbcpVersion>
         <commonsDbUtilsVersion>1.2</commonsDbUtilsVersion>
         <commonsHttpClientVersion>3.1</commonsHttpClientVersion>
